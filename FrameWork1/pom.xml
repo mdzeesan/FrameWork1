@@ -35,11 +35,7 @@
 </dependency>
 
 
-  	<dependency>
-  		<groupId>Qsp</groupId>
-  		<artifactId>AutomationFramework</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
+  	
   	<!-- https://mvnrepository.com/artifact/com.aventstack/extentreports -->
 <dependency>
     <groupId>com.aventstack</groupId>
